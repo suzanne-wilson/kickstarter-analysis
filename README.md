@@ -5,7 +5,7 @@ This analysis is for Louise to learn more about Kickstarter campaigns for organi
 The excel file containing the report can be found here: [Module 1 challenge.xlsx] 
 ---
 ## Kickstarter Campaign Results by Parent Category ---
-![Parent Category Outcomes Pivot Chart.png] ---
+![https://github.com/suzanne-wilson/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes%20Pivot%20Chart.png] ---
 ## Campaign Results by Year of Launch ---
 ![Outcomes based on launch date.png] --- 
 ## Campaign Results by Month of Launch ---
