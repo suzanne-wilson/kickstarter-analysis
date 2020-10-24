@@ -3,7 +3,7 @@
 The objective of this challenge is to conduct a data analysis to determine whether the length of a Kickstarter campaign contributes to its ultimate success or failure.  We looked at campaign results for Plays relative to each campaign's goals, as well as campaigns for all Theater campaigns by launch month.
 
 ### Kickstarter Campaigns for Plays, Results by Goals ---
-![Outcomes based on goal.png](/Outcomes based on goal.png) ---
+![Outcomes based on goal.png](https://github.com/suzanne-wilson/kickstarter-analysis/blob/master/Outcomes%20based%20on%20goal.png) ---
 
 ### Kickstarter Campaigns for Theater, Results by Month of Launch ---
 ![outcomes by launch month.png](/outcomes by launch month.png)
