@@ -6,7 +6,7 @@ The objective of this challenge is to conduct a data analysis to determine wheth
 ![Outcomes based on goal.png](https://github.com/suzanne-wilson/kickstarter-analysis/blob/master/Outcomes%20based%20on%20goal.png) ---
 
 ### Kickstarter Campaigns for Theater, Results by Month of Launch ---
-![outcomes by launch month.png](/outcomes by launch month.png)
+![outcomes by launch month.png](https://github.com/suzanne-wilson/kickstarter-analysis/blob/master/outcomes%20by%20launch%20month.png)
 
 ### Conclusions
 Three conclusions I have drawn from this analysis are:
@@ -15,4 +15,5 @@ Three conclusions I have drawn from this analysis are:
 3. Springtime, especially May, is the best time to launch a Kickstarter campaign for a theater.
 
 ###  Limitations of the dataset and suggestions for additional tables or graphs
-Limitations: There are many factors that very likely influence the success of a Kickstarter campaign that are not included in the data. A few of these factors include properly scoping the campaign, and providing a vivid description of the product and its benefits.  The size of the campaign goal may be a proxy for correct scoping, since smaller (and probably more targeted) campaigns are the most likely to succeed.  I would like to see a count of videos and images for the campaign, as well as which social media channels the campaign was promoted on.
+Limitations: There are many factors that very likely influence the success of a Kickstarter campaign that are not included in the data. A few of these factors include properly scoping the campaign, and providing a vivid description of the product and its benefits.  The size of the campaign goal may be a proxy for correct scoping, since smaller (and probably more targeted) campaigns are the most likely to succeed.  
+Suggestions: I would like to see a count of videos and images for the campaigns, as well as which social media channels the campaign was promoted on.
